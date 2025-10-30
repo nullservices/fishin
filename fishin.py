@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # fishin.py
-# Motion-triggered WoW fishing helper
+# Motion-triggered fishing helper
 # Two-tap F6 to pick region, F8 start/stop, F9 exit. Auto-loots with Auto Loot ON.
 
 import time
