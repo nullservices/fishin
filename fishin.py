@@ -16,7 +16,7 @@ import pyautogui
 import keyboard
 
 # ---------------------------- USER SETTINGS ----------------------------
-CAST_KEY = '1'                   # WoW fishing keybind
+CAST_KEY = '1'                   # fishing keybind
 RUN_TOGGLE_KEY = 'f8'
 SET_REGION_KEY = 'f6'            # two-tap: top-left then bottom-right
 CANCEL_REGION_KEY = 'f10'
