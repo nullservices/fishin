@@ -7,7 +7,6 @@ It detects the bobber splash visually (via motion detection) and right-clicks to
 
 ## 🧠 Features
 
-- 🖥️ Works on your own **local or LAN WoW server**
 - 🎞️ **Motion-based detection** — no memory reads or packet hooks
 - 🧩 Auto-tracks and right-clicks the bobber when it splashes
 - 👁️ Adjustable sensitivity (tune to avoid ripples or false triggers)
