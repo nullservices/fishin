@@ -1,4 +1,4 @@
-# 🎣 Fishin — Local WoW Auto-Fishing Assistant
+# 🎣 Fishin — Auto-Fishing Assistant
 
 **Fishin** is a lightweight, fully local Python utility that helps you automate fishing**.  
 It detects the bobber splash visually (via motion detection) and right-clicks to reel in — all while keeping things simple, human-like, and customizable.
